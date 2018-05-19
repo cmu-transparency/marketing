@@ -15,7 +15,7 @@
 - [PLUM](http://www.cs.umd.edu/projects/PL/) Programming Languages at University of Maryland
 
   - <img width="300" alt="PLUM Logo" src="http://www.cs.umd.edu/projects/PL/images/PLUM.svg"/>
-  - <img width="300" alt="PLUM Laptop Sticker" src="https://github.com/plum-umd/marketing/raw/master/sticker_2014/plum_6x4_on_white.png"/)
+  - <img width="300" alt="PLUM Laptop Sticker" src="https://github.com/plum-umd/marketing/raw/master/sticker_2014/plum_6x4_on_white.png"/>
   - [PLUM Tshirts/Hoodies](https://github.com/plum-umd/marketing/tree/master/hoodie_tshirt_2014)
   
 - [PLASMA](https://plasma-umass.org/) Programming Languages And Systems at Massachusetts
