@@ -5,7 +5,7 @@ This document summarizes various group identity considerations including name, l
 Currently: Accountable Systems Lab (ASL)
 
   - Bad: ASL is an existing acronym for "age/sex/location" .
-  - Bad: Not well pronouncable.
+  - Bad: Not well pronounceable.
 
 ## Other options
 
@@ -25,6 +25,22 @@ Currently: Accountable Systems Lab (ASL)
   - Suggest group's area of focus
 
   - Start conversations (some vagueness can help)
+
+## Logo ideas
+
+  - Distributed representation of ASL CMU .
+
+<img width="300" alt="Distributed ASL CMU" src="https://raw.githubusercontent.com/cmu-transparency/marketing/master/logo/logo_design_2018_workspace-%20asl%20custom.png"/>
+
+    - Hard to read.
+
+  - Opening black box.
+
+<img width="300" alt="Opening black box" src="https://raw.githubusercontent.com/cmu-transparency/marketing/master/logo/logo_design_2018_workspace-%20black%20box.png"/>
+
+    - Emphasize the opening part somehow.
+
+  - Something about gradient (as in SGD).
 
 # Clothing
 
@@ -48,7 +64,7 @@ Currently: Accountable Systems Lab (ASL)
 
 ## Goals
 
-  -
+  - Give to visitors.
 
 ## Possible items
 
@@ -64,15 +80,32 @@ Currently: Accountable Systems Lab (ASL)
 
 - Backpacks
 
+- Puzzle toys
+
 # Website
 
-[ASL@CMU Website](http://www.fairlyaccountable.org)
+[ASL@CMU Website](http://www.fairlyaccountable.org) . Caleb is now responsible for website.
+
+## Goals
+
+  - Make work publicly accessible.
+
+    - Blog or summary page.
+
+    - Example: [Freedom to Tinker](https://freedom-to-tinker.com)
+
+  - Need to represent the group.
+
+# Social Media Presence
 
 ## TODO
 
-  - Need to better represent the group.
-  
-  - Need someone to be responsible for keeping it up to date.
+  - Create a strategic list of people/groups and their twitter accounts.
+
+    - Specifically focus on ML peoples.
+
+  - Make a lab account and post updates to website/blog/summary
+    documents/papers.
 
 # Other groups
 
@@ -101,3 +134,5 @@ Currently: Accountable Systems Lab (ASL)
 
   - <img width="300" alt="QIL" src="https://rubinlab.stanford.edu/sites/default/files/qil-300.png" />
   
+LocalWords:  websites ASL website tshirts hoodies polos Misc TODO img
+LocalWords:  alt src PL CyLab AMPLab QIL
