@@ -30,13 +30,17 @@ Currently: Accountable Systems Lab (ASL)
 
   - Distributed representation of ASL CMU .
 
-<img width="600" alt="Distributed ASL CMU" style="background-color: black;" src="https://raw.githubusercontent.com/cmu-transparency/marketing/master/logo/logo_design_2018_workspace-%20asl%20custom.png"/>
+  <div style="background-color: black;">
+     <img width="600" alt="Distributed ASL CMU" src="https://raw.githubusercontent.com/cmu-transparency/marketing/master/logo/logo_design_2018_workspace-%20asl%20custom.png"/>
+  </div>
 
     - Hard to read.
 
   - Opening black box.
 
-<img width="600" alt="Opening black box" style="background-color: black;" src="https://raw.githubusercontent.com/cmu-transparency/marketing/master/logo/logo_design_2018_workspace-%20black%20box.png"/>
+  <div style="background-color: black;">
+     <img width="600" alt="Opening black box" src="https://raw.githubusercontent.com/cmu-transparency/marketing/master/logo/logo_design_2018_workspace-%20black%20box.png"/>
+  </div>
 
     - Emphasize the opening part somehow.
 
