@@ -1,13 +1,78 @@
-# group name
+This document summarizes various group identity considerations including name, logos, websites, etc...
 
-- Current: Accountable Systems Lab (ASL)
+# Group Name
+
+Currently: Accountable Systems Lab (ASL)
 
   - Bad: ASL is an existing acronym for "age/sex/location" .
   - Bad: Not well pronouncable.
 
-# logo
+## Other options
 
-- Logo to be placed on website and related, stickers (for back of laptop), tshirts, hoodies and other swag.
+  - ???
+
+# Logo
+
+- Logo to be placed on website and related, stickers (for back of
+  laptop), tshirts, hoodies and other swag.
+
+## Goals
+
+  - Memorable
+
+  - Stand out when around other logos
+
+  - Suggest group's area of focus
+
+  - Start conversations (some vagueness can help)
+
+# Clothing
+
+## Goals
+
+  - Stand out in a crowd (bright colors help)
+
+  - Fashionable ?
+
+## Possible Items
+
+  - tshirts
+  
+  - hoodies
+  
+  - polos
+  
+  - hats?
+
+# Misc items
+
+## Goals
+
+  -
+
+## Possible items
+
+- Mouse pads
+
+- Mugs
+
+- Water bottles
+
+- Pens
+
+- Bags
+
+- Backpacks
+
+# Website
+
+[ASL@CMU Website](http://www.fairlyaccountable.org)
+
+## TODO
+
+  - Need to better represent the group.
+  
+  - Need someone to be responsible for keeping it up to date.
 
 # Other groups
 
