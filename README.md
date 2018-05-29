@@ -44,22 +44,19 @@ Currently: Accountable Systems Lab (ASL)
 
   - Look inside black box using magnifying glass.
 
-    - <img width="600" alt="Magnify"
+    - <img width="200" alt="Magnify"
            src="https://raw.githubusercontent.com/cmu-transparency/marketing/master/logo/logo_gko.png"/>
-
-    - <img width="300" alt="Magnify"
+      <img width="200" alt="Magnify"
            src="https://raw.githubusercontent.com/cmu-transparency/marketing/master/logo/logo_simple_gko.png"/>
-
-    - <img width="300" alt="Magnify"
+      <img width="200" alt="Magnify"
            src="https://raw.githubusercontent.com/cmu-transparency/marketing/master/logo/logo_simpler_gko.png"/>
-
-    - <img width="300" alt="Magnify Algo"
+      <img width="200" alt="Magnify Algo"
            src="https://raw.githubusercontent.com/cmu-transparency/marketing/master/logo/logo_algo_gko.png"/>
 
   - Flashing from inside black box.
 
-    - <img width="300" alt="Black box flash"
-           src="https://github.com/cmu-transparency/marketing/blob/master/logo/asl_logo_bg.png/>
+    - <img width="200" alt="Black box flash"
+           src="https://github.com/cmu-transparency/marketing/blob/master/logo/asl_logo_bg.png"/>
 
   - Idea: Something about gradient (as in SGD).
 
