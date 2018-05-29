@@ -28,23 +28,40 @@ Currently: Accountable Systems Lab (ASL)
 
 ## Logo ideas
 
-  - Distributed representation of ASL CMU .
+  - Distributed representation of ASL CMU.
 
-    - <div style="background-color: black;">
-      <img width="600" alt="Distributed ASL CMU" src="https://raw.githubusercontent.com/cmu-transparency/marketing/master/logo/logo_design_2018_workspace-%20asl%20custom.png"/>
-      </div>
+    - <img width="600" alt="Distributed ASL CMU"
+           src="https://raw.githubusercontent.com/cmu-transparency/marketing/master/logo/logo_design_2018_workspace-%20asl%20custom.png"/>
 
     - Hard to read.
 
   - Opening black box.
 
-    - <div style="background-color: black;">
-      <img width="600" alt="Opening black box" src="https://raw.githubusercontent.com/cmu-transparency/marketing/master/logo/logo_design_2018_workspace-%20black%20box.png"/>
-      </div>
+    - <img width="600" alt="Opening black box"
+           src="https://raw.githubusercontent.com/cmu-transparency/marketing/master/logo/logo_design_2018_workspace-%20black%20box.png"/>
 
-    - Emphasize the opening part somehow.
+    - Idea: Emphasize the opening part somehow.
 
-  - Something about gradient (as in SGD).
+  - Look inside black box using magnifying glass.
+
+    - <img width="600" alt="Magnify"
+           src="https://raw.githubusercontent.com/cmu-transparency/marketing/master/logo/logo_gko.png"/>
+
+    - <img width="300" alt="Magnify"
+           src="https://raw.githubusercontent.com/cmu-transparency/marketing/master/logo/logo_simple_gko.png"/>
+
+    - <img width="300" alt="Magnify"
+           src="https://raw.githubusercontent.com/cmu-transparency/marketing/master/logo/logo_simpler_gko.png"/>
+
+    - <img width="300" alt="Magnify Algo"
+           src="https://raw.githubusercontent.com/cmu-transparency/marketing/master/logo/logo_algo_gko.png"/>
+
+  - Flashing from inside black box.
+
+    - <img width="300" alt="Black box flash"
+           src="https://github.com/cmu-transparency/marketing/blob/master/logo/asl_logo_bg.png/>
+
+  - Idea: Something about gradient (as in SGD).
 
 # Clothing
 
