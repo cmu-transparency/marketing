@@ -57,11 +57,11 @@ Currently: Accountable Systems Lab (ASL)
 ## Possible Items
 
   - tshirts
-  
+
   - hoodies
-  
+
   - polos
-  
+
   - hats?
 
 # Misc items
@@ -126,17 +126,17 @@ Currently: Accountable Systems Lab (ASL)
 - [PLASMA](https://plasma-umass.org/) Programming Languages And Systems at Massachusetts
 
   - <img width="300" alt="PLASMA Logo" src="https://plasma-umass.org/plasma-globe.png"/>
-  
+
 - [CUPS](http://cups.cs.cmu.edu/) CyLab Usable Privacy and Security Laboratory
 
   - <img width="300" alt="CUPS Logo" src="http://cups.cs.cmu.edu/cups-150x150.jpg"/>
   - <img width="300" alt="CUPS Tshirts" src="http://cups.cs.cmu.edu/cups-group-april2018.jpg"/>
-  
+
 - [AMPLab](https://amplab.cs.berkeley.edu/) AMP. Algorithms Machines People
 
 - [QIL](https://rubinlab.stanford.edu/) Laboratory of Quantitative Imaging
 
   - <img width="300" alt="QIL" src="https://rubinlab.stanford.edu/sites/default/files/qil-300.png" />
-  
+
 LocalWords:  websites ASL website tshirts hoodies polos Misc TODO img
 LocalWords:  alt src PL CyLab AMPLab QIL
